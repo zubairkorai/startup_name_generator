@@ -9,11 +9,11 @@ A modern, high-performance web application built to help entrepreneurs find thei
 
 ## ✨ Features
 
+- **🌓 Dual Theme Support**: Seamless Light, Dark, and System-default modes with a sleek toggle.
+- **📱 Mobile-First Design**: Fully optimized for touch devices with responsive typography and refined layouts.
 - **⚡ Real-time Generation**: Instant name suggestions as you type, powered by debounced input logic.
-- **🎨 Modern UI/UX**: Built with **Tailwind CSS v4**, featuring glassmorphism, gradient text, and smooth CSS animations.
+- **🎨 Modern UI/UX**: Built with **Tailwind CSS v4**, featuring glassmorphism and smooth CSS animations.
 - **📋 One-Click Copy**: Seamlessly copy your favorite startup names to your clipboard with interactive feedback.
-- **📱 Fully Responsive**: Optimized for everything from mobile screens to ultra-wide monitors.
-- **🛠️ Tech-Forward Naming**: Uses a sophisticated blend of niche keywords, modern prefixes (Neo-, Meta-, Zen-), and startup-friendly suffixes (-ly, -ify, -io).
 
 ## 🚀 Getting Started
 
@@ -55,7 +55,7 @@ A modern, high-performance web application built to help entrepreneurs find thei
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ---
 Built with ❤️ for the startup community.

@@ -161,7 +161,7 @@ function App() {
       </div>
 
       <footer className="text-center py-12 text-slate-500 text-sm border-t border-white/5">
-        <p>© 2026 Startup Name Generator. Built with React & Tailwind CSS.</p>
+        <p>© 2026 Startup Name Generator.</p>
       </footer>
     </div>
   );
