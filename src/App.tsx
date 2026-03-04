@@ -150,10 +150,10 @@ function App() {
             Generating awesome names...
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto opacity-50">
-             {[1, 2, 3].map((i) => (
-               <div key={i} className="h-40 border-2 border-dashed border-slate-700 rounded-3xl flex items-center justify-center text-slate-700 font-bold text-2xl italic">
-                 Sample Name
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
+             {['Skyline', 'NovaCore', 'Vortex'].map((name, i) => (
+               <div key={i} className="group relative bg-white/5 border border-white/10 p-8 rounded-3xl flex items-center justify-center text-slate-500 font-bold text-2xl italic transition-all hover:bg-white/10 opacity-40 hover:opacity-100">
+                 {name}
                </div>
              ))}
           </div>
